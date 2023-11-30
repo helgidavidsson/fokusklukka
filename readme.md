@@ -29,7 +29,7 @@ Byggt með Python og Tkinter. Gerir notanda kleift að setja tíma fyrir fókusv
 4. Byrjaðu að vinna þangað til að goðsagnakennda outro lagið byrjar.
 5. Tíminn mun síðan klárast í droppinu og þá poppa upp skilaboð.
 
-## Sérsnið
+## Sérsníðun
 
 - Ef þú vilt breyta laginu getur þú skipt út "output.mp3" í 'play_audio' fallinu með hvaða mp3 skrá af þínu vali.
 - Það er einnig hægt að breyta tímasetningu á innkomu lagsins með því að breyta `if time_left == 57:` í main.py.

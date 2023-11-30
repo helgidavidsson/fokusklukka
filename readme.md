@@ -1,8 +1,8 @@
-# Fókusklukka
+# Fókusklukka með outro
 
 ## Yfirlit
 
-Byggt með Python og Tkinter. Gerir notanda kleift að setja tíma fyrir fókusvinnu, eða lærdóm. Eftir að niðurteljarinn er kommin í 57 sekúntur byrjar hvetjandi og goðsagnarkennt outro lag sem markar enda á vinnu með dramatískum hætti.
+Byggt með Python og Tkinter. Gerir notanda kleift að setja tíma fyrir fókusvinnu eða lærdóm. Eftir að niðurteljarinn er kominn í 57 sekúntur byrjar hvetjandi og goðsagnarkennt outro lag sem markar enda á vinnu með dramatískum hætti.
 
 ## Kröfur
 

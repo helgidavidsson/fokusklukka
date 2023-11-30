@@ -14,12 +14,10 @@ Byggt með Python og Tkinter. Gerir notanda kleift að setja tíma fyrir fókusv
 ## Uppsetning
 
 1. Vertu viss um að þú sért með Python 3 uppsett.
-2. Settu upp Pygame library.
+2. Settu upp Pygame library.Hægt er að setja það upp með pip:
+   `pip install pygame`
+
 3. Klónaðu eða downloadaðu þetta repo.
-
-### Pygame uppsetning
-
-`pip install pygame`
 
 ## Notkun
 
@@ -31,5 +29,5 @@ Byggt með Python og Tkinter. Gerir notanda kleift að setja tíma fyrir fókusv
 
 ## Sérsníðun
 
-- Ef þú vilt breyta laginu getur þú skipt út "output.mp3" í 'play_audio' fallinu með hvaða mp3 skrá af þínu vali.
+- Ef þú vilt breyta laginu getur þú skipt út "output.mp3" í `play_audio` fallinu með hvaða mp3 skrá af þínu vali.
 - Það er einnig hægt að breyta tímasetningu á innkomu lagsins með því að breyta `if time_left == 57:` í main.py.

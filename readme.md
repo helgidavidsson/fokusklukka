@@ -13,11 +13,12 @@ Byggt með Python og Tkinter. Gerir notanda kleift að setja tíma fyrir fókusv
 
 ## Uppsetning
 
-1. Vertu viss um að þú sért með Python 3 uppsett.
-2. Settu upp Pygame library.Hægt er að setja það upp með pip:
+1. Vertu viss um að þú sért með Python 3 uppsett.  
+   `python3 --version`
+2. Settu upp Pygame library.Hægt er að setja það upp með pip:  
    `pip install pygame`
-
-3. Klónaðu eða downloadaðu þetta repo.
+3. Klónaðu eða downloadaðu þetta repo.  
+   `git clone https://github.com/helgidavidsson/fokusklukka`
 
 ## Notkun
 

@@ -16,7 +16,7 @@ def set_timer():
         countdown(total_time_sec)  # Byrjar að telja niður
 
     except ValueError:
-        messagebox.showerror("Ólöglegt inntak", "Við notum bara tölustafi hér vinur!")
+        messagebox.showerror("Ólöglegt inntak", "Við notum bara tölustafi hér!")
 
 
 def countdown(time_left):
